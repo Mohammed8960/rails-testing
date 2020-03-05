@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails devcamp-portfolio-master: test" uuid="7faccb82-69ca-4c72-9735-e64524acdd6f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/DevcampPortfolio_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails devcamp-portfolio-master: production" uuid="84191f81-2305-445d-aee0-c5ccf7e45926">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/DevcampPortfolio_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails devcamp-portfolio-master: development" uuid="45528ed3-5650-4068-89d7-13e8f9351adf">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/DevcampPortfolio_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
